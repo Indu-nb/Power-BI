@@ -1,8 +1,8 @@
 # Power-BI
 Adidas Sales and Distributors Performance Dashboard
 
-The dataset for this dashboard is available from public dataset repository Kaggle: [https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data
-](https://www.kaggle.com/datasets/ahmedabbas757/dataset)
+The dataset for this dashboard is available from public dataset repository Kaggle: [[https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data
+](https://www.kaggle.com/datasets/ahmedabbas757/dataset)](https://www.kaggle.com/datasets/ahmedabbas757/dataset)
 
 This project was divided into two parts- sales performance dashbaord and individual retailer performance dashboard.
 New AI tools like Q&A and Key influencers were used to make the dashboard more interactive and understand the key drivers behind operating profit.
